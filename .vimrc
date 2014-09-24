@@ -46,7 +46,7 @@ syntax on
 set tags+=tags;
 set grepprg=grep\ -nH
 
-nnoremap [q :cprevious<CR>   " ‘O‚Ö
-nnoremap ]q :cnext<CR>       " Ÿ‚Ö
-nnoremap [Q :<C-u>cfirst<CR> " Å‰‚Ö
-nnoremap ]Q :<C-u>clast<CR>  " ÅŒã‚Ö
+nnoremap [q :cprevious<CR>
+nnoremap ]q :cnext<CR>
+nnoremap [Q :<C-u>cfirst<CR>
+nnoremap ]Q :<C-u>clast<CR>
